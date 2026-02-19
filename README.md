@@ -36,3 +36,82 @@ The report is divided into multiple analytical views:
 * Analysis of Inflation, Interest, and Yield impact across house types
 * Combined view of Average SQM vs SQM Price by property type to assess value efficiency
 
+## 📌 Key Performance Indicators (KPIs)
+
+## 🏠 Sales & Revenue KPIs
+
+1. Total Sales Value (12-Month Sales)
+  * Measures total housing transaction value over the last 12 months
+  * Used to track overall market size and performance
+
+2. Units Sold (Latest Year & Quarter)
+  * Total number of properties sold in the most recent period
+  * Indicates market activity and demand
+
+📈 Growth & Trend KPIs
+
+Year-over-Year (YoY) Sales Growth
+
+Compares current sales performance against the previous year
+
+Analyzed by sales type (Auction, Regular Sale, Family Sale, Other Sale)
+
+Median Sales Price Change by Region
+
+Tracks percentage change in median house prices across regions
+
+Helps identify high-growth and declining markets
+
+💰 Pricing Efficiency KPIs
+
+Offer Price vs Purchase Price Gap
+
+Compares listing price with final transaction price
+
+Evaluates pricing accuracy and negotiation behavior
+
+Offer-to-SQM Ratio by Sales Type
+
+Measures price per square meter efficiency across sales channels
+
+🌍 Regional Performance KPIs
+
+Sales by Region
+
+Total sales value contribution from each region
+
+Used for regional market comparison
+
+Average Price per SQM by Region
+
+Benchmarks housing affordability and value across locations
+
+🏘 Property Type KPIs
+
+Average Offer Price by House Type
+
+Average listed price for Apartments, Villas, Townhouses, Farms, and Summerhouses
+
+Average Purchase Price by House Type
+
+Final transaction price comparison by property category
+
+Average SQM & SQM Price by House Type
+
+Evaluates size vs pricing efficiency across housing types
+
+📊 Economic Impact KPIs
+
+Average Inflation Rate by House Type
+
+Average Interest Rate by House Type
+
+Average Yield by House Type
+
+Measures how macro-economic factors influence housing categories
+
+🧠 Analytical KPI
+
+Key Influencers on Purchase Price
+
+Identifies variables that most strongly drive price increases using Power BI AI visuals
