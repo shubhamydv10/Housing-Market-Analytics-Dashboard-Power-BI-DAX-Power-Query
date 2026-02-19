@@ -4,3 +4,22 @@ Housing Market Analytics Dashboard built in Power BI to analyze regional price t
 
 This Power BI project presents a comprehensive analysis of the housing market, focusing on price trends, regional performance, sales behavior, and property characteristics. The dashboard is designed to help users explore market dynamics and make data-driven real estate insights through interactive visuals.
 
+
+📌 Dashboard Overview
+
+The report is divided into multiple analytical views:
+
+1️⃣ House Market Overview
+
+Displays median sales price change by region (Zealand, Jutland, Fyn & Islands, Bornholm)
+
+KPI cards highlighting:
+
+Units sold (latest year & quarter)
+
+12-month total sales value
+
+Scatter plot comparing Offer Price vs Purchase Price to analyze pricing efficiency
+
+Year-over-Year (YoY) sales growth by sales type (Auction, Regular Sale, Family Sale, Other Sale), identifying growth and decline trends
+
