@@ -9,7 +9,7 @@ This Power BI project presents a comprehensive analysis of the housing market, f
 
 The report is divided into multiple analytical views:
 
-## 1️⃣ House Market Overview - Dashboard
+## 1️⃣ House Market Overview - <a href="https://github.com/shubhamydv10/Housing-Market-Analytics-Dashboard-Power-BI-DAX-Power-Query/blob/main/House%20market%20overview.png">Dashboard</a>
 
 * Displays median sales price change by region (Zealand, Jutland, Fyn & Islands, Bornholm)
 * KPI cards highlighting:
