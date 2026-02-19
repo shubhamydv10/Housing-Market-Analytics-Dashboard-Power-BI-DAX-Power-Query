@@ -40,11 +40,11 @@ The report is divided into multiple analytical views:
 
 ## 🏠 Sales & Revenue KPIs
 
-1. Total Sales Value (12-Month Sales)
+1. **Total Sales Value (12-Month Sales)**
   * Measures total housing transaction value over the last 12 months
   * Used to track overall market size and performance
 
-2. Units Sold (Latest Year & Quarter)
+2. **Units Sold (Latest Year & Quarter)**
   * Total number of properties sold in the most recent period
   * Indicates market activity and demand
 
