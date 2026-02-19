@@ -18,3 +18,13 @@ The report is divided into multiple analytical views:
 * Scatter plot comparing Offer Price vs Purchase Price to analyze pricing efficiency
 * Year-over-Year (YoY) sales growth by sales type (Auction, Regular Sale, Family Sale, Other Sale), identifying growth and decline trends
 
+
+## 2️⃣ Sales Performance Analysis - <a href="https://github.com/shubhamydv10/Housing-Market-Analytics-Dashboard-Power-BI-DAX-Power-Query/blob/main/Sales%20Performance.png">Dashboard</a>
+
+
+* Sales by region showing total transaction value contribution
+* Key Influencers visual to identify factors impacting purchase price
+* Detailed time-based sales table (Year, Quarter, Month, Day)
+* Comparison of Offer to SQM ratio by sales type
+* Average price per square meter (SQM) by region, enabling regional price benchmarking
+
