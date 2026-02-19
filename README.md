@@ -28,3 +28,11 @@ The report is divided into multiple analytical views:
 * Comparison of Offer to SQM ratio by sales type
 * Average price per square meter (SQM) by region, enabling regional price benchmarking
 
+## 3️⃣ Property Type & Economic Factors Analysis - <a href="https://github.com/shubhamydv10/Housing-Market-Analytics-Dashboard-Power-BI-DAX-Power-Query/blob/main/House%20type.png">Dashboard</a>
+
+* Interactive slicers for Area, City, Sales Type, and Region
+* Comparison of Average Offer Price vs Purchase Price by house type
+  (Apartment, Villa, Townhouse, Farm, Summerhouse)
+* Analysis of Inflation, Interest, and Yield impact across house types
+* Combined view of Average SQM vs SQM Price by property type to assess value efficiency
+
